@@ -1,13 +1,32 @@
 {
   "project_info": {
-    "project_number": "489523641405",
-    "project_id": "lab-05-demo-61f50",
-    "storage_bucket": "lab-05-demo-61f50.firebasestorage.app"
+    "project_number": "830430645967",
+    "project_id": "listycity5-f87fb",
+    "storage_bucket": "listycity5-f87fb.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:489523641405:android:84a32093359992e370be54",
+        "mobilesdk_app_id": "1:830430645967:android:546e0d6d8a63f79453f1ba",
+        "android_client_info": {
+          "package_name": "com.example.lab05_starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTPOQJDhCaPPKQXXy8BjGZ5Y7YgsyCet0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830430645967:android:64ecb0dc53d3651a53f1ba",
         "android_client_info": {
           "package_name": "com.example.lab5_starter"
         }
@@ -15,7 +34,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA6gnO3kItMg57DaV7a3Ap8rZTZJN8ICi4"
+          "current_key": "AIzaSyDTPOQJDhCaPPKQXXy8BjGZ5Y7YgsyCet0"
         }
       ],
       "services": {
